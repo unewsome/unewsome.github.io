@@ -1,4 +1,4 @@
-### Projects
+# Data Project Demonstration
 
 ## Personal Projects
 - STEM Maker Space Locations in Nashville
@@ -8,5 +8,5 @@
 
 
 
-## Team Projects
-# These projects were created using a team effort.  Each team member contributed their skills and knowledge to the completion of each project  
+### Team Projects
+These projects were created using a team effort.  Each team member contributed their skills and knowledge to the completion of each project  
